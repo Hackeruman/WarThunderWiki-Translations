@@ -2,61 +2,62 @@
     <!-- DO NOT TRANSLATE -->
     <string name="app_name" translatable="false">ThunderDex</string>
     <!-- DO NOT TRANSLATE -->
+    <!-- Polish Translation -->
 
-    <string name="news">Latest War Thunder News</string>
-    <string name="updates">Latest Game Updates</string>
-    <string name="vehicle_types">Vehicles</string>
-    <string name="favorite_vehicles">Favorite Vehicles</string>
-    <string name="settings">Settings</string>
-    <string name="battle_rating">Battle Rating:</string>
-    <string name="battle_rating_ab">AB</string>
-    <string name="battle_rating_rb">RB</string>
-    <string name="battle_rating_sb">SB</string>
+    <string name="news">Najnowsze Wiadomości Ze Świata War Thunder</string>
+    <string name="updates">Najnowsze Aktualizacje Gry</string>
+    <string name="vehicle_types">Pojazdy</string>
+    <string name="favorite_vehicles">Ulubione Pojazdy</string>
+    <string name="settings">Ustawienia</string>
+    <string name="battle_rating">Klasyfikacja Bitewna:</string>
+    <string name="battle_rating_ab">BW</string>
+    <string name="battle_rating_rb">BR</string>
+    <string name="battle_rating_sb">BS</string>
     <string name="not_available">N/A</string>
-    <string name="research">Research:</string>
-    <string name="purchase">Purchase:</string>
-    <string name="bundle_or_gift">Bundle or Gift</string>
-    <string name="description">Description:</string>
-    <string name="general_info">General Information:</string>
-    <string name="pros_and_cons">Pros and Cons:</string>
-    <string name="pros">Pros:</string>
-    <string name="cons">Cons:</string>
-    <string name="empty_list">Empty list</string>
-    <string name="loading">Loading…</string>
-    <string name="please_wait">Please wait…</string>
-    <string name="connection_error">Could not connect to server</string>m
-    <string name="something_went_wrong">Error: Something went wrong</string>
-    <string name="home">Home</string>
-    <string name="planes">Aircraft</string>
-    <string name="helicopters">Helicopters</string>
-    <string name="tanks">Tanks</string>
-    <string name="ships">Ships</string>
-    <string name="favorite">Favorite</string>
-    <string name="unfavorite">Unfavorite</string>
-    <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
-    <string name="settings_app_theme_title">Dynamic Theming</string>
-    <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_app_theme_desc_two">Enable dynamic app theming</string>
-    <string name="settings_donate_desc">❤️   Support my work by donating!!   ❤️</string>
-    <string name="settings_clear_cache_title">Clear cache</string>
-    <string name="settings_clear_cache_desc">Clear your saved settings, texts and images</string>
-    <string name="affirmative_text">Thanks!</string>
-    <string name="read_changelog">Read the latest changelog</string>
-    <string name="no_data_found">No data found…</string>
-    <string name="search_vehicle">Search vehicle</string>
-    <string name="search_here">Search here…</string>
-    <string name="clear_search">Clear search</string>
-    <string name="settings_discord_title">Join the ThunderDex Discord group</string>
-    <string name="settings_discord_body"><i>Be part of something amazing…</i></string>
-    <string name="usage_in_battles">Usage in battles:</string>
+    <string name="research">Możliwe Do Zbadania:</string>
+    <string name="purchase">Możliwe Do Zakupu:</string>
+    <string name="bundle_or_gift">Możliwe Do Zdobycia Poprzez Zakup Pakietu:</string>
+    <string name="description">Opis:</string>
+    <string name="general_info">Ogólne Informacje:</string>
+    <string name="pros_and_cons">Plusy I Minusy:</string>
+    <string name="pros">Plusy:</string>
+    <string name="cons">Minusy:</string>
+    <string name="empty_list">Pusta Lista</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="please_wait">Proszę Czekać…</string>
+    <string name="connection_error">Nie Można Było Połączyć Z Serwerer Bądź Internetem</string>m
+    <string name="something_went_wrong">Błąd: Coś Poszło Nie Tak</string>
+    <string name="home">Strona Główna</string>
+    <string name="planes">Samoloty</string>
+    <string name="helicopters">Helikoptery</string>
+    <string name="tanks">Czołgi</string>
+    <string name="ships">Statki Wojenne</string>
+    <string name="favorite">Dodaj Do Ulubionych</string>
+    <string name="unfavorite">Usuń Z Ulubionych</string>
+    <string name="donate_dialog_title"><b>❤️   • DOTACJE •   ❤️</b></string>
+    <string name="settings_app_theme_title">Dynamiczne Tło</string>
+    <string name="settings_app_theme_desc">Włącz Dynamiczne Tło dla %s</string>
+    <string name="settings_app_theme_desc_two">Włącz Dynamiczne Tło</string>
+    <string name="settings_donate_desc">❤️   WESPRZYJ MOJĄ PRACĘ ZA POMOCĄ !!   ❤️</string>
+    <string name="settings_clear_cache_title">Wyczyść CACHE</string>
+    <string name="settings_clear_cache_desc">Wyczyść Zdjęcia, Teksty, Ulubione pojazdy</string>
+    <string name="affirmative_text">Dzięki!</string>
+    <string name="read_changelog">Przeczytaj Najnowsze Zmiany W Aplikacji</string>
+    <string name="no_data_found">Nic Nie Znaleziono…</string>
+    <string name="search_vehicle">Wyszukaj Pojazdu</string>
+    <string name="search_here">Aby Szukać, Kliknij Tutaj…</string>
+    <string name="clear_search">Wyczyść Pasek Szukania</string>
+    <string name="settings_discord_title">Dołącz Do ThunderDex Na Discordzie!</string>
+    <string name="settings_discord_body"><i>Bądż Częścią Czegoś Wspaniałego…</i></string>
+    <string name="usage_in_battles">Użycie W Bitwie:</string>
     <string name="wiki">Wiki</string>
-    <string name="about_app">The <b>best</b> War Thunder Wikipedia app.</string>
-    <string name="reddit_title">Join the ThunderDex Subreddit</string>
-    <string name="reddit_summary">Click here to join the ThunderDex subreddit!!! 😁</string>
-    <string name="upcoming_features_summary">Features &amp; plans for 2024</string>
-    <string name="upcoming_features_summary_alt">2024 ThunderDex Plans!</string>
-    <string name="upcoming_features">Preview upcoming app features</string>
-    <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="about_app"><b>NAJLEPSZA</b> Wikipedia War Thunder Dostępna Za Darmo .</string>
+    <string name="reddit_title">Dołącz Do Społeczności ThunderDex na reddicie!</string>
+    <string name="reddit_summary">Kliknij Tutaj, Aby Dołączyć Do Społeczności ThunderDex Na Reddicid!!! 😁</string>
+    <string name="upcoming_features_summary">Features &amp; ppany na 2024</string>
+    <string name="upcoming_features_summary_alt">Plany ThunderDex Na 2024!</string>
+    <string name="upcoming_features">Zobacz Nadchodzące Zmiany I Dodatki</string>
+    <string name="contribute_summary" translatable="false">Testuj<a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
@@ -66,16 +67,16 @@
     <string name="blank" translatable="false"> </string>
 
     <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_two">• Filter vehicles by rank instead of alphabetically</string>
-    <string name="upcoming_feature_three">• Add option to choose how vehicles are filtered</string>
-    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_five">• Add an option to download selected vehicle images</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
+    <string name="upcoming_feature_one">• Dodatkowe Opcje Dostosowywania (Wielkość Zdjęcia Pojazu itp.)</string>
+    <string name="upcoming_feature_two">• Filtrowanie Pojazdów Ze Względu Na Erę, Nie Alfabetycznie</string>
+    <string name="upcoming_feature_three">• Dodanie Opcji, Pozwalającej Na Wybranie Ile Pojazdów Ma Wchodzić W Filtr</string>
+    <string name="upcoming_feature_four">• Lepsze Zdjęcia Pojazdów</string>
+    <string name="upcoming_feature_five">• Możliwość Pobrania Wybranych Zdjęć Pojazdów</string>
+    <string name="upcoming_feature_six">• Dodanie Więcej Tłumaczeń</string>
+    <string name="upcoming_feature_seven">• Jak Będzie Wystarczająco Dużo Języków, Dodanie Opcji Wybrania Języka</string>
+    <string name="upcoming_feature_eight">• Optymalizacja Ładowania Oraz Ogólnej Prędkości Aplikacjj</string>
+    <string name="upcoming_feature_nine">• Dodanie Więcej Informacji, Oraz Uaktualnień Od Użytkowników</string>
+    <string name="upcoming_feature_ten">• Dodanie Tapety Z Tematyką War Thunder, Z Możliwością Pobrania Jej Ze Strony</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
